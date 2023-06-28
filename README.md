@@ -1,4 +1,4 @@
-# ml-project-2-aaa_ml_proj2
+# road-segmentation-using-U-net
 
 Our best result was achieved with *accuracy=0.945* and *F1-score=0.895*. \
 Result link on the competition platform: https://www.aicrowd.com/challenges/epfl-ml-road-segmentation/submissions/207397 \
